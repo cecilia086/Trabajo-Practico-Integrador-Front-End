@@ -1,0 +1,131 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+}
+
+p {
+    text-align: right;
+    padding-left: 50vh;
+    padding-right: 0rem;
+}
+
+
+img {
+
+    filter: brightness(50%);
+    position: relative;
+}
+
+
+
+.card-group {
+
+    gap: 60px;
+    padding: 2em 10em 2em 10em;
+
+}
+
+
+
+.card {
+    flex-wrap: wrap;
+}
+
+
+
+
+.card-title {
+    margin-top: 0px;
+
+}
+
+.card-text {
+    text-align: initial;
+    padding-left: 0em;
+
+
+}
+
+.card-body {
+    padding-top: 0px;
+}
+
+
+
+
+.form {
+display: flex;
+flex-wrap: wrap;
+    justify-content: center;
+   align-content:center;
+    padding:10px 23px;
+   
+    flex-direction: column;
+    align-items: stretch;}
+
+
+
+    .btn-block {
+        display: flex;
+        margin-left: 0px;
+        text-align: center;
+        font-size: 10px;
+        flex-wrap: wrap;
+    justify-content: center;
+    align-items:center;
+    align-content:center;
+    background-color: rgb(87, 183, 87);
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+   margin-right: 15.5em;
+        
+    }
+
+    .alignrow{margin-left: 10em;}
+
+  
+.flexfooter{padding-top: 15px;}
+
+       
+.flex-container1{
+    background-color: rgb(27, 81, 116) ;
+    background: linear-gradient(to bottom, rgb(27 81 116),black);
+    color: white;
+    font-size:smaller;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items:center;
+    align-content:center;
+    height: 10em;
+    gap: 7em;
+}
+
+.flex-container{display: flex;
+    justify-content: right;
+    gap: 10px;
+
+
+}
+
+.btn-size {
+    padding-top: 1.5em;
+    padding-left: 0.8em;
+}
+
+
+                     
+
+
+
+
+
+
+
+
